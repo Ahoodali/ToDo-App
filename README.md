@@ -70,5 +70,3 @@ This project was created to practice building a functional React application and
 
 # 👩🏻‍💻 Author
 Ahood Algeidy
-
-Software Engineering Graduate | Interested in Software Testing & Quality Assurance
