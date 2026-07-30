@@ -37,17 +37,7 @@ const d2 = offsetDate(t, -2)
 const d3 = offsetDate(t, -4)
 
 const SEED: Task[] = [
-  { id: '1',  text: 'Buy weekly groceries',          done: false, date: t  },
-  { id: '2',  text: 'Send work report',               done: false, date: t  },
-  { id: '3',  text: 'Call family',                    done: false, date: t  },
-  { id: '4',  text: 'Read for 30 minutes',            done: true,  date: t  },
-  { id: '5',  text: 'Morning workout',                done: true,  date: d1 },
-  { id: '6',  text: 'Review presentation deck',       done: false, date: d1 },
-  { id: '7',  text: 'Pay internet bill',              done: true,  date: d1 },
-  { id: '8',  text: 'Book dentist appointment',       done: false, date: d2 },
-  { id: '9',  text: 'Update resume',                  done: true,  date: d2 },
-  { id: '10', text: 'Clean the office',               done: true,  date: d3 },
-  { id: '11', text: 'Finish TypeScript course module', done: false, date: d3 },
+
 ]
 
 /* ── Icons ── */
