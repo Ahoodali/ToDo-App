@@ -40,27 +40,23 @@ The app helps users organize their daily tasks, track their progress, and easily
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/Ahoodali/ToDo-App.git
-```
+
 
 ### 2. Navigate to the project directory
 
-```bash
 cd ToDo-App
-```
+
 
 ### 3. Install dependencies
 
-```bash
 npm install
-```
+
 
 ### 4. Start the development server
 
-```bash
 npm run dev
-```
+
 # 📌 Project Purpose
 
 This project was created to practice building a functional React application and working with:
