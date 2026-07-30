@@ -50,12 +50,12 @@ The app helps users organize their daily tasks, track their progress, and easily
 
 ### 3. Install dependencies
 
-```bush npm install ```
+```bash npm install ```
 
 
 ### 4. Start the development server
 
-```bush npm run dev```
+```bash npm run dev```
 
 # 📌 Project Purpose
 
