@@ -20,6 +20,8 @@ The app helps users organize their daily tasks, track their progress, and easily
 * 💾 Save tasks using Local Storage
 * 🌐 Arabic and English language support
 
+# 📸 Screenshots
+
 # 🛠️ Technologies Used
 
 * React
