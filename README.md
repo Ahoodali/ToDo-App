@@ -45,17 +45,17 @@ The app helps users organize their daily tasks, track their progress, and easily
 
 ### 2. Navigate to the project directory
 
-`cd ToDo-App
+cd ToDo-App
 
 
 ### 3. Install dependencies
 
-```bash npm install ```
+``` npm install ```
 
 
 ### 4. Start the development server
 
-```bash npm run dev```
+``` npm run dev```
 
 # 📌 Project Purpose
 
