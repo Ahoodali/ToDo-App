@@ -36,21 +36,21 @@ The app helps users organize their daily tasks, track their progress, and easily
 * The design was then developed and customized using React, TypeScript, and Vite.
 * Additional functionality and improvements were implemented during development.
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone YOUR_REPOSITORY_URL ```
 
-2. Navigate to the project folder
+### 2. Navigate to the project folder
 ```bash
 cd ToDo-App ```
 
-3. Install dependencies
+### 3. Install dependencies
 ```bush
 npm install ```
 
-4. Start the development server
+### 4. Start the development server
 ```bush
 npm run dev ```
 
