@@ -45,7 +45,7 @@ git clone https://github.com/Ahoodali/ToDo-App.git
 
 ### 2. Navigate to the project directory
 
-cd ToDo-App
+``` cd ToDo-App```
 
 
 ### 3. Install dependencies
