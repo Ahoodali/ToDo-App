@@ -39,20 +39,20 @@ The app helps users organize their daily tasks, track their progress, and easily
 # 🚀 Getting Started
 
 1. Clone the repository
-
-git clone YOUR_REPOSITORY_URL
+'''bash
+git clone YOUR_REPOSITORY_URL '''
 
 2. Navigate to the project folder
-
-cd ToDo-App
+'''bash
+cd ToDo-App '''
 
 3. Install dependencies
-
-npm install
+'''bush
+npm install '''
 
 4. Start the development server
-
-npm run dev
+'''bush
+npm run dev '''
 
 Then open the local URL shown in the terminal.
 
