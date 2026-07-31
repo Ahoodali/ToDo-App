@@ -22,6 +22,8 @@ The app helps users organize their daily tasks, track their progress, and easily
 
 # 📸 Screenshots
 ![ToDo App Demo](ToDo-screen.gif)
+
+
 # 🛠️ Technologies Used
 
 * React
