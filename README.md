@@ -21,7 +21,7 @@ The app helps users organize their daily tasks, track their progress, and easily
 * 🌐 Arabic and English language support
 
 # 📸 Screenshots
-
+![To Do Demo](To Do screen.gif)
 # 🛠️ Technologies Used
 
 * React
